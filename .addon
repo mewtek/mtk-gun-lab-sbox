@@ -1,0 +1,25 @@
+{
+  "Title": "Mewtek\u0027s Gun Lab",
+  "Type": "game",
+  "Org": "local",
+  "Ident": "mtk_gun_lab",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "RootNamespace": "MTK",
+  "Metadata": {
+    "MaxPlayers": 10,
+    "MinPlayers": 0,
+    "GameNetworkType": 0,
+    "MapSelect": 0,
+    "MapList": [
+      "facepunch.construct"
+    ],
+    "RankType": 0,
+    "PerMapRanking": false,
+    "LeaderboardType": 0
+  }
+}
